@@ -70,7 +70,7 @@ get_header();  ?>
 <!-- Hero Section End -->
 
 <!-- Intro Section Start -->
-<div class="intro-section abc123 iii">
+<div class="intro-section abc123 iii ooo">
 	<div class="container">
 		<div class="row gx-5">
 			<div class="col-lg-12 col-xl-1">
